@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hamburger Demo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="demo_title">Demo Title</string>
+    <string name="demo_subtitle">Demo Subtitle</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+</resources>
